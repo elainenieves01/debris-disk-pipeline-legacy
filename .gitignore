@@ -11,3 +11,8 @@ outputs/
 *.png
 
 .env
+
+# Local tooling / environments (too large for GitHub)
+Miniconda3-latest-Linux-x86_64.sh
+debrisdisks/
+venv/
